@@ -14,7 +14,7 @@ function show(arr){
 
 	document.getElementById("resultz").innerHTML = arr;
 
-	
+
 }
 
 var sortedArray=function bubble(arr){
@@ -35,6 +35,21 @@ function showsort(){
 
 	document.getElementById("resultz1").innerHTML = sortedArray(arr);
 
-	
-}
 
+}
+/*--------------------------------------*/
+
+document.getElementsByClassName('.grid0').addEventListener("click", generateX);
+function generateX
+
+
+
+
+
+
+
+
+
+
+
+.
